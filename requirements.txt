@@ -1,0 +1,9 @@
+bcrypt==4.1.2
+pymongo==4.6.1
+requests==2.31.0
+robotframework==6.1.1
+robotframework-browser==18.0.0
+robotframework-faker==5.0.0
+robotframework-jsonlibrary==0.5
+robotframework-pythonlibcore==4.3.0
+robotframework-requests==0.9.6
